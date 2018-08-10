@@ -1,6 +1,6 @@
 # Samskritam
 
-This is an exploratory exercise to develop Domain Specific Language (DSL) for analyzing samskritam language as an alternative for programming.
+This is an exploratory exercise to develop **Domain Specific Language (DSL)** for analyzing *samskritam* language as an alternative language for programming.
 
 
 6 [सूत्रम्](https://vagartham.wordpress.com/2011/08/09/six-degrees-of-sutras/ "Formulae") as Listed by **Vasya** in his blog: [वागर्था](https://vagartham.wordpress.com/ "vAgartham")
